@@ -1,0 +1,1 @@
+A little script to load dnscrypt . My first Project ^_^
